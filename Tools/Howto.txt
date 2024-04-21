@@ -1,0 +1,5 @@
+*v1.19 used
+1-use 1418B02V02SIM868M32_CFG\1418B02SIM868M32\1418B02SIM868M32.cfg firmware
+2- select proper UART configuration with 9600 baudrate
+3- click start
+4- power up module
